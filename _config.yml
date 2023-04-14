@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongqin Wang's Research Website"
+title                    : "Lei Gao's Research Website"
 title_separator          : "-"
-name                     : &name "Yongqin Wang"
+name                     : &name "Lei Gao"
 description              : &description "PhD student @ University of Southern California"
-url                      : https://iihihiuh.github.io/yongqin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://leigao97.github.io/leigao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/iihihiuh/yongqin.github.io"
+repository               : "https://github.com/leigao97/leigao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongqin Wang"
+  name             : "Lei Gao"
   avatar           : "selfie.jpeg"
   bio              : "PhD student @ University of Southern California"
   employer         :
   pubmed           : 
-  linkedin         : "yongqw"
-  googlescholar    : "https://scholar.google.com/citations?user=DEH7pxcAAAAJ&hl=en"
+  linkedin         : "lei-gao-362aa1108"
+  googlescholar    : "https://scholar.google.com/citations?user=TxzNHuIAAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
