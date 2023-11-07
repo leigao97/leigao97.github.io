@@ -10,5 +10,5 @@ redirect_from:
 
 I am a PhD student at the University of Southern California working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/).
 
-# Publication Summary
+# Publication
 
