@@ -21,4 +21,4 @@ My research interests are centered around machine learning systems, federated le
 
 # Services
 * IEEE Computer Architecture Letters (2023 Sep)
-* ACL Rolling (2024 Jan)
+* ACL Rolling Review (2024 Jan)
