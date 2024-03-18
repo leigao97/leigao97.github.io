@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Lei Gao"
-excerpt: "Lei Gao"
+title: "Lei Gao (高雷)"
+excerpt: "Lei Gao (高雷)"
 author_profile: true
 redirect_from: 
   - /about/
