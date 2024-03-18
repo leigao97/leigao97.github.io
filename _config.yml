@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gao's Research Website"
+title                    : "Lei Gao's Homepage"
 title_separator          : "-"
 name                     : &name "Lei Gao"
 description              : &description "PhD student @ University of Southern California"
@@ -87,7 +87,7 @@ author:
   pubmed           : 
   linkedin         : "lei-gao-362aa1108"
   googlescholar    : "https://scholar.google.com/citations?user=TxzNHuIAAAAJ&hl=en"
-  email            : 
+  email            : "leig@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
