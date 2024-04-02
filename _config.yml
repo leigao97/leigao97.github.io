@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gao's Homepage"
+title                    : "Lei Gao Homepage"
 title_separator          : "-"
 name                     : &name "Lei Gao"
 description              : &description "PhD student @ University of Southern California"
