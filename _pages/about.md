@@ -17,7 +17,7 @@ My research interests are centered around machine learning systems, federated le
 * **12/18/2023**: Our paper "Ethos: Rectifying Language Models in Orthogonal Parameter Space" has been accepted for spotlight presentation at the [Responsible Language Model (ReLM)](https://sites.google.com/vectorinstitute.ai/relm2024/schedule?authuser=0) workshop during the AAAI 2024 conference. See you in Vancouver, Canada! 
 
 # Teaching
-* [EE599: Systems for Machine Learning](https://ece-classes.usc.edu/ee599ml/) (2023 Fall, 2024 Spring). I created a series of [slides](https://drive.google.com/drive/folders/1-O5gVVR6GCFEz3ShQbHKn4ATEo1BcmIT?usp=sharing) for our discussion session. 
+* [EE599: Systems for Machine Learning](https://ece-classes.usc.edu/ee599ml/) (2023 Fall, 2024 Spring). I created [slides and final project](https://drive.google.com/drive/folders/1-O5gVVR6GCFEz3ShQbHKn4ATEo1BcmIT?usp=sharing) for our class.
 
 # Services
 * ACL Rolling Review (2024 Jan)
