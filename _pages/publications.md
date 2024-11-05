@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=TxzNHuIAAAAJ&hl=en) profile.
 
-
+* **Lei Gao***,  Amir Ziashahabi*, Yue Niu, Salman Avestimehr, Murali Annavaram “Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines” NeurIPS 2024 Efficient Natural Language and Speech Processing Workshop. [[Link](https://arxiv.org/pdf/2409.15520)]
 * **Lei Gao***, Yue Niu*, Tingting Tang, Salman Avestimehr, Murali Annavaram “Ethos: Rectifying Language Models in Orthogonal Parameter Space” NAACL Findings 2024. [[Link](https://arxiv.org/abs/2403.08994)]
 * **Lei Gao***, Yue Niu*, Tingting Tang, Salman Avestimehr, Murali Annavaram “Ethos: Rectifying Language Models in Orthogonal Parameter Space” AAAI 2024 Responsible Language Models Workshop (spotlight). [[Link](https://arxiv.org/abs/2403.08994)]
 * Tuo Zhang, **Lei Gao**, Sunwoo Lee, Mi Zhang, Chaoyang He, Salman Avestimehr “TimelyFL: Heterogeneity aware Asynchronous Federated Learning with Adaptive Partial Training” CVPR 2023 Federated Learning for CV workshop. [[Link](https://arxiv.org/abs/2304.06947)]
