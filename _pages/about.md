@@ -24,7 +24,7 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 * [EE599: Systems for Machine Learning](https://ece-classes.usc.edu/ee599ml/) (Fall 2023, Spring 2024). I created [slides and final project](https://drive.google.com/drive/folders/1-O5gVVR6GCFEz3ShQbHKn4ATEo1BcmIT?usp=sharing) for our class.
 
 # Professional Service
-#### Reviewer:
+### Reviewer:
 * NeurIPS ENLSP Workshop (Sep 2024)
 * ACL Rolling Review (Jan 2024)
 * IEEE Computer Architecture Letters (Sep 2023)
