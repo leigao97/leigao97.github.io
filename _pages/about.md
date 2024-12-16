@@ -13,7 +13,7 @@ I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engi
 My research interests are centered around **efficient LLM fine-tuning and inference**, **cross-device federated learning systems**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # News
-* **12/10/2024**: Our paper "[KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)" has been accepted by AAAI [SEAS](https://seasworkshop.github.io/aaai25/) workshop 2024. See you in Pennsylvania, USA!
+* **12/10/2024**: Our paper "[KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)" has been accepted by AAAI [SEAS](https://seasworkshop.github.io/aaai25/) workshop 2025. See you in Pennsylvania, USA!
 * **10/15/2024**: Our paper "[Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines](https://arxiv.org/pdf/2409.15520)" has been accepted by NeurIPS [ENLSP](https://neurips2024-enlsp.github.io/) workshop 2024. See you in Vancouver, Canada!
 * **3/13/2024**: Our paper "[Ethos: Rectifying Language Models in Orthogonal Parameter Space](https://arxiv.org/abs/2403.08994)" has been accepted by [NAACL](https://aclanthology.org/2024.findings-naacl.132/) Findings 2024. See you in Mexico City, Mexico!
 * **12/18/2023**: Our paper "Ethos: Rectifying Language Models in Orthogonal Parameter Space" has been accepted for spotlight presentation at the [Responsible Language Model (ReLM)](https://sites.google.com/vectorinstitute.ai/relm2024/schedule?authuser=0) workshop during the AAAI 2024 conference. See you in Vancouver, Canada! 
