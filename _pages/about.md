@@ -24,12 +24,12 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 * EE109: Introduction to Embedded Systems (Fall 2024)
 
 # Professional Service
-### Reviewer:
+## Reviewer:
 * ARR (Jan 2025, Jan 2024), ICLR SCOPE Workshop (Feb 2025), NeurIPS ENLSP Workshop (Sep 2024), IEEE Computer Architecture Letters (Sep 2023)
 
 # Volunteer Sevice
-### Mentor:
+## Mentor:
 * USC Undergraduate Research ([CURVE]((https://viterbiundergrad.usc.edu/research/curve/))), Fall 2024, Spring 2025
 
-### Talk:
+## Talk:
 * "Invited Presentation at AMD on KVPR for Efficient LLM Inference", April 2025
