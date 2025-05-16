@@ -33,4 +33,4 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 * USC Undergraduate Research ([CURVE]((https://viterbiundergrad.usc.edu/research/curve/))), Fall 2024, Spring 2025
 
 ### Talk:
-* "Invited Presentation at AMD on KVPR for Efficient LLM Inference", April 2025
+* Invited Presentation at AMD on KVPR for Efficient LLM Inference, April 2025
