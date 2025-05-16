@@ -30,7 +30,7 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 
 # Volunteer Service
 ### Mentor:
-* USC Undergraduate Research ([CURVE]((https://viterbiundergrad.usc.edu/research/curve/))) Program (Fall 2024, Spring 2025)
+* USC Undergraduate Research in Viterbi Engineering ([CURVE](https://viterbiundergrad.usc.edu/research/curve/)) Program (Fall 2024, Spring 2025)
 
 ### Talk:
 * Invited Presentation at AMD on KVPR for Efficient LLM Inference, April 2025
