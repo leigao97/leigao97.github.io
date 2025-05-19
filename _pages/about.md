@@ -13,7 +13,7 @@ I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engi
 My research interests are centered around **efficient LLM fine-tuning and inference**, **cross-device federated learning systems**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # News
-* **05/19/2025**: Join Microsoft as a summer Research Intern in the Strategic Planning and Architecture (SPARC) group, working on LLM infrastructure for the Azure ecosystem. If you're in the Bay Area too, hit me up—always happy to hang out or chat!
+* **05/19/2025**: Join Microsoft as a summer Research Intern in the Strategic Planning and Architecture (SPARC) group, working on LLM infrastructure for the Azure ecosystem. If you're in the Bay Area too, hit me up—always happy to hang or chat!
 * **05/15/2025**: Our paper "[KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)" has been accepted by [ACL](https://2025.aclweb.org/) Findings 2025. See you in Vienna, Austria!
 * **12/10/2024**: Our paper "KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation" has been accepted by AAAI [SEAS](https://seasworkshop.github.io/aaai25/) workshop 2025. See you in Pennsylvania, USA!
 * **10/15/2024**: Our paper "[Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines](https://arxiv.org/pdf/2409.15520)" has been accepted by NeurIPS [ENLSP](https://neurips2024-enlsp.github.io/) workshop 2024. See you in Vancouver, Canada!
