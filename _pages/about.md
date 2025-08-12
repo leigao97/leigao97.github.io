@@ -27,9 +27,8 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 
 # Professional Service
 * **Reviewer**: ARR (May 2025, Jan 2025, Jan 2024), ICLR SCOPE Workshop (Feb 2025), NeurIPS 4-th ENLSP Workshop (Sep 2024), IEEE Computer Architecture Letters (Sep 2023)
-* **Technical Committee**: NeurIPS 5-th ENLSP Workshop (Aug 2025)
 
 # Volunteer Service
 * **Mentor**: USC Undergraduate Research in Viterbi Engineering ([CURVE](https://viterbiundergrad.usc.edu/research/curve/)) Program (Fall 2024, Spring 2025)
-* **Talk @ AMD**: KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation (Apr 2025)
-* **Talk @ Palo Alto Networks**: Efficient Online LLM Serving with vLLM: Architecture, Optimization, and Disaggregation (Aug 2025)
+* **Talk at AMD**: KVPR for Efficient LLM Batched Inference (Apr 2025)
+* **Talk at Palo Alto Networks**: vLLM for Efficient LLM Online Serving (Aug 2025)
