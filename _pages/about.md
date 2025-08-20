@@ -13,6 +13,7 @@ I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engi
 My research interests are centered around **efficient LLM fine-tuning and inference**, **cross-device federated learning systems**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # News
+* **08/20/2025**: Our paper "[MobiZO: Enabling Efficient LLM Fine-Tuning at the Edge via Inference Engines](https://arxiv.org/pdf/2409.15520)" has been accepted by [EMNLP](https://2025.emnlp.org/) Main 2025. See you in Suzhou, China!
 * **07/07/2025**: Our paper "[DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding](https://arxiv.org/abs/2504.05598)" has been accepted by [CoLM](https://colmweb.org/) 2025. See you in Montreal, Canada!
 * **05/19/2025**: Join Microsoft as a summer Research Intern in the Strategic Planning and Architecture (SPARC) group, working on LLM serving infrastructure for Azure. If you're in the Bay Area too, hit me up—always happy to hang or chat!
 * **05/15/2025**: Our paper "[KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)" has been accepted by [ACL](https://2025.aclweb.org/) Findings 2025. See you in Vienna, Austria!
