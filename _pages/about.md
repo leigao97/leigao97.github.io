@@ -15,10 +15,10 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 # News
 * **08/20/2025**: Our paper "[MobiZO: Enabling Efficient LLM Fine-Tuning at the Edge via Inference Engines](https://arxiv.org/pdf/2409.15520)" has been accepted by [EMNLP](https://2025.emnlp.org/) Main 2025. See you in Suzhou, China!
 * **07/07/2025**: Our paper "[DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding](https://arxiv.org/abs/2504.05598)" has been accepted by [CoLM](https://colmweb.org/) 2025. See you in Montreal, Canada!
-* **05/19/2025**: Join Microsoft as a summer Research Intern in the Strategic Planning and Architecture (SPARC) group, working on LLM serving infrastructure for Azure. Grateful to be mentored by [Vinay Gangadhar](https://www.linkedin.com/in/vinaygangadhar/) and [Mark Hill](https://www.linkedin.com/in/mark-hill-a0b9a21b4/). 
-* **05/15/2025**: Our paper "[KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation](https://arxiv.org/abs/2411.17089)" has been accepted by [ACL](https://2025.aclweb.org/) Findings 2025. See you in Vienna, Austria!
-* **12/10/2024**: Our paper "KVPR: Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation" has been accepted by AAAI [SEAS](https://seasworkshop.github.io/aaai25/) workshop 2025. See you in Pennsylvania, USA!
-* **10/15/2024**: Our paper "[Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines](https://arxiv.org/pdf/2409.15520)" has been accepted by NeurIPS [ENLSP](https://neurips2024-enlsp.github.io/) workshop 2024. See you in Vancouver, Canada!
+* **05/19/2025**: Join Microsoft as a Research Intern in Azure's Strategic Planning and Architecture (SPARC) group, AI System Architecture (ASA) team, working on performance modeling for LLM serving systems. Grateful to be mentored by [Vinay Gangadhar](https://www.linkedin.com/in/vinaygangadhar/) and [Mark Hill](https://www.linkedin.com/in/mark-hill-a0b9a21b4/).
+* **05/15/2025**: Our paper "[KVPR: Efficient LLM Inference with I/O-Aware KV Partial Cache Recomputation](https://arxiv.org/abs/2411.17089)" has been accepted by [ACL](https://2025.aclweb.org/) Findings 2025. See you in Vienna, Austria!
+* **12/10/2024**: Our paper "Efficient LLM Inference with I/O-Aware Partial KV Cache Recomputation" has been accepted by AAAI [SEAS](https://seasworkshop.github.io/aaai25/) workshop 2025. See you in Pennsylvania, USA!
+* **10/15/2024**: Our paper "Enabling Resource-Efficient On-Device Fine-Tuning of LLMs Using Only Inference Engines" has been accepted by NeurIPS [ENLSP](https://neurips2024-enlsp.github.io/) workshop 2024. See you in Vancouver, Canada!
 * **3/13/2024**: Our paper "[Ethos: Rectifying Language Models in Orthogonal Parameter Space](https://arxiv.org/abs/2403.08994)" has been accepted by [NAACL](https://aclanthology.org/2024.findings-naacl.132/) Findings 2024. See you in Mexico City, Mexico!
 * **12/18/2023**: Our paper "Ethos: Rectifying Language Models in Orthogonal Parameter Space" has been accepted for spotlight presentation at AAAI [ReLM](https://sites.google.com/vectorinstitute.ai/relm2024/schedule?authuser=0) workshop 2024. See you in Vancouver, Canada! 
 
@@ -31,5 +31,5 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 
 # Volunteer Service
 * **Mentor**: USC Undergraduate Research in Viterbi Engineering ([CURVE](https://viterbiundergrad.usc.edu/research/curve/)) Program (Fall 2024, Spring 2025)
-* **Talk at AMD**: KVPR for Efficient LLM Batched Inference (Apr 2025)
-* **Talk at Palo Alto Networks**: vLLM for Efficient LLM Online Serving (Aug 2025)
+* **Talk at AMD**: KVPR for Efficient LLM Batched Inference in Resource-Constrained Environments (Apr 2025)
+* **Talk at Palo Alto Networks**: vLLM for Efficient and Scalable LLM Online Serving (Aug 2025)
