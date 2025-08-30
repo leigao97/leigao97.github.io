@@ -27,9 +27,8 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 * EE109: Introduction to Embedded Systems (Fall 2024)
 
 # Professional Service
-* **Reviewer**: ARR (May 2025, Jan 2025, Jan 2024), ICLR SCOPE Workshop (Feb 2025), NeurIPS 4-th ENLSP Workshop (Sep 2024), IEEE Computer Architecture Letters (Sep 2023)
+* **Reviewer**: ARR (2025, 2024), ICLR SCOPE Workshop (2025), NeurIPS ENLSP Workshop (2024), IEEE Computer Architecture Letters (2023)
 
 # Volunteer Service
-* **Mentor**: USC Undergraduate Research in Viterbi Engineering ([CURVE](https://viterbiundergrad.usc.edu/research/curve/)) Program (Fall 2024, Spring 2025)
-* **Talk at AMD**: KVPR for Efficient LLM Batched Inference in Resource-Constrained Environments (Apr 2025)
-* **Talk at Palo Alto Networks**: vLLM for Efficient and Scalable LLM Online Serving (Aug 2025)
+* **Mentorship**: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Fall 2024, Spring 2025), USC [VGSA](https://engage.usc.edu/viterbigradmentorship/home/) (Fall 2025)
+* **Talks**: KVPR for Efficient LLM Batched Inference (Salesforce 2025, AMD 2025); vLLM for Efficient LLM Online Serving (Palo Alto Networks 2025)
