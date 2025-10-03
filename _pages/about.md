@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at USC working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I obtained my Bachelor’s degree from [UC Santa Barbara](https://www.engineering.ucsb.edu/) and my Master's degree from USC. 
 
-My research interests are centered around **efficient LLM fine-tuning and inference**, **cross-device federated learning systems**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
+My research interests are centered around **efficient LLM fine-tuning and inference**, **machine learning systems**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # News
 * **10/02/2025**: Our paper *DistilLock: Safeguarding Proprietary LLMs from Unauthorized Knowledge Distillation on the Edge*, led by my mentees [Asmita Mohanty](https://www.linkedin.com/in/asmita-mohanty-38a81910a/) and [Gezheng Kang](https://www.linkedin.com/in/gezhengkang/), has been accepted to the NeurIPS [Lock-LLM](https://lock-llm.github.io/) Workshop 2025.
