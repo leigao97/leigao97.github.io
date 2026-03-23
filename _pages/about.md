@@ -35,7 +35,7 @@ My research interests are centered around **efficient LLM fine-tuning and infere
 * **Mentorship**: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Fall 2024, Spring 2025), USC [VGSA](https://engage.usc.edu/viterbigradmentorship/home/) (Fall 2025)
 * **Talks**: KVPR for Efficient LLM Batched Inference (Salesforce 2025, AMD 2025); vLLM for Efficient LLM Online Serving (Palo Alto Networks 2025)
 
-<div style="margin-top: 1.5rem; text-align: center;">
+<div style="margin-top: 1.5rem; width: 50%; margin-left: auto; margin-right: auto; text-align: center;">
   <script
     type="text/javascript"
     id="clustrmaps"
