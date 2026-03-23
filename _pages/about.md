@@ -13,6 +13,7 @@ I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engi
 My research interests are centered around **efficient LLM fine-tuning and inference**, **machine learning systems**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # News
+* **03/23/2026**: Our USC team launched [ClawGang](clawgang.ai) — infrastructure for making agent memory valuable, tradable, and verifiable. Every API token an agent spends becomes certifiable wealth that can be resold.
 * **10/02/2025**: Our paper [*DistilLock: Safeguarding LLMs from Unauthorized Knowledge Distillation on the Edge*](https://arxiv.org/pdf/2510.16716), led by my mentees [Asmita Mohanty](https://www.linkedin.com/in/asmita-mohanty-38a81910a/) and [Gezheng Kang](https://www.linkedin.com/in/gezhengkang/), has been accepted to the NeurIPS [Lock-LLM](https://lock-llm.github.io/) Workshop 2025.
 * **08/20/2025**: Our paper [*MobiZO: Enabling Efficient LLM Fine-Tuning at the Edge via Inference Engines*](https://arxiv.org/pdf/2409.15520) has been accepted to [EMNLP](https://2025.emnlp.org/) Main 2025.
 * **07/07/2025**: Our paper [*DEL: Context-Aware Dynamic Exit Layer for Efficient Self-Speculative Decoding*](https://arxiv.org/abs/2504.05598) has been accepted to [CoLM](https://colmweb.org/) 2025. 
