@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at USC working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I obtained my Bachelor’s degree from [UC Santa Barbara](https://www.engineering.ucsb.edu/) and my Master's degree from USC. 
 
-My research interests are centered around **efficient LLM inference and adaptation**, **machine learning systems**, and **LLM agents**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
+My research interests are centered around **efficient LLM inference and adaptation**, **machine learning systems**, and **AI-driven system architecture design**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # News
 * **04/06/2026**: Our paper [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://arxiv.org/abs/2510.09883) has been accepted to [ACL](https://2026.aclweb.org/) Findings 2026.
@@ -31,7 +31,7 @@ My research interests are centered around **efficient LLM inference and adaptati
 * EE109: Introduction to Embedded Systems (Fall 2024)
 
 # Professional Service
-* **Reviewer**: ARR (2025, 2024), ICLR SCOPE Workshop (2025), NeurIPS ENLSP Workshop (2024), IEEE Computer Architecture Letters (2023)
+* **Reviewer**: ICML (2026), ARR (Mar 2026, Feb/May/Oct 2025, Dec 2024), ICLR SCOPE Workshop (2025), NeurIPS ENLSP Workshop (2024), IEEE Computer Architecture Letters (2023)
 
 # Volunteer Service
 * **Mentorship**: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Fall 2024, Spring 2025), USC [VGSA](https://engage.usc.edu/viterbigradmentorship/home/) (Fall 2025)
