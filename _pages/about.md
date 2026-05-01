@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at USC working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I obtained my Bachelor’s degree from [UC Santa Barbara](https://www.engineering.ucsb.edu/) and my Master's degree from USC. 
+I am a PhD candidate at the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at USC working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I obtained my Bachelor’s degree from [UC Santa Barbara](https://www.engineering.ucsb.edu/) and my Master's degree from USC. 
 
 My research interests are centered around **efficient LLM inference and adaptation**, **machine learning systems**, and **AI-driven system architecture design**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
