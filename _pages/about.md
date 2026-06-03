@@ -51,7 +51,7 @@ My research interests are centered around **efficient LLM inference and adaptati
   </noscript>
 </div> -->
 
-<div style="max-width:360px;margin:1.5rem auto;text-align:center;">
+<div style="margin-top: 1.5rem; width: 50%; margin-left: auto; margin-right: auto; text-align: center;">
   <div style="display:inline-block;transform:scale(0.75);transform-origin:top center;">
     <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=hwt3Wt0gxfhfGAWylouOF0cnnghZJSDSmWRaU1U6q0M&cl=ffffff&w=a"></script>
   </div>
