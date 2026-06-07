@@ -12,6 +12,8 @@ I am a PhD candidate at the [Ming Hsieh Department of Electrical and Computer En
 
 My research interests are centered around **efficient LLM inference and adaptation**, **machine learning systems**, and **AI-driven system architecture design**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
+Check out my [daily arXiv paper tracker](https://leigao97.github.io/daily-arxiv-papers/) for recent research in machine learning systems.
+
 # News
 * **04/30/2026**: Our paper [*DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing*](https://arxiv.org/pdf/2511.04791) has been accepted to [ICML](https://icml.cc/) 2026.
 * **04/06/2026**: Our paper [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://arxiv.org/abs/2510.09883) has been accepted to [ACL](https://2026.aclweb.org/) Findings 2026.
