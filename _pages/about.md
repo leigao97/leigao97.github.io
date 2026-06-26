@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD candidate at the [Ming Hsieh Department of Electrical and Computer Engineering](https://minghsiehece.usc.edu/) at USC working with [Prof. Murali Annavaram](http://scip-lab.usc.edu/). I obtained my Bachelor’s degree from [UC Santa Barbara](https://www.engineering.ucsb.edu/) and my Master's degree from USC. 
 
-My research interests are centered around **efficient LLM inference and adaptation**, **machine learning systems**, and **AI-driven system architecture design**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
+My research interests are centered around **LLM inference and training systems**, **efficient machine learning algorithms**, and **responsible AI**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 Check out my [daily arXiv paper tracker](https://leigao97.github.io/daily-arxiv-papers/) for recent research in machine learning systems.
 
