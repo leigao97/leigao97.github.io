@@ -15,6 +15,7 @@ My research interests are centered around **LLM inference and training systems**
 Check out my [daily arXiv paper tracker](https://leigao97.github.io/daily-arxiv-papers/) for recent research in machine learning systems.
 
 # News
+* **07/08/2026**: Our paper [*ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference*]() has been accepted to [CoLM](https://colmweb.org/) 2026.
 * **06/17/2026**: Our paper [*MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention*](https://arxiv.org/pdf/2506.12035) has been accepted to [ECCV](https://eccv.ecva.net/) 2026.
 * **04/30/2026**: Our paper [*DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing*](https://arxiv.org/pdf/2511.04791) has been accepted to [ICML](https://icml.cc/) 2026.
 * **04/06/2026**: Our paper [*DELTA: Dynamic Layer-Aware Token Attention for Efficient Long-Context Reasoning*](https://arxiv.org/abs/2510.09883) has been accepted to [ACL](https://2026.aclweb.org/) Findings 2026.
