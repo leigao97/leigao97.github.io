@@ -12,7 +12,9 @@ I am a PhD candidate at the [Ming Hsieh Department of Electrical and Computer En
 
 My research interests are centered around **LLM inference and training systems** and **efficient machine learning algorithms**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
-Check out my [daily arXiv paper tracker](https://leigao97.github.io/daily-arxiv-papers/) for recent research in machine learning systems.
+# Outreach
+* I am happy to work with undergraduate and master's students interested in conducting research on efficient AI and ML systems. Feel free to reach out.
+* Check out my [daily arXiv paper tracker](https://leigao97.github.io/daily-arxiv-papers/) for recent work in the field.
 
 # News
 * **07/08/2026**: Our paper [*ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference*]() has been accepted to [CoLM](https://colmweb.org/) 2026.
