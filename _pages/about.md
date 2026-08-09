@@ -13,7 +13,7 @@ I am a PhD candidate at the [Ming Hsieh Department of Electrical and Computer En
 My research interests are centered around **LLM inference and training systems** and **efficient machine learning algorithms**. Here is a copy of my [CV](https://drive.google.com/file/d/1_nmI6PbiMfAH85MrOSnA6IIyZP2Sw-k6/view?usp=drive_link).
 
 # Outreach
-* I am happy to work with undergraduate and master's students interested in conducting research on efficient AI and ML systems. Feel free to reach out.
+* I am glad to mentor undergrad and master's students interested in conducting research on efficient AI and ML systems. Feel free to reach out.
 * Check out my [daily arXiv paper tracker](https://leigao97.github.io/daily-arxiv-papers/) for recent work in the field.
 
 # News
