@@ -18,6 +18,7 @@ My research interests are centered around **LLM inference and training systems**
 
 # News
 * **08/14/2025**: Finished my second research internship at Microsoft Azure's Strategic Planning and Architecture group, AI System Architecture team. This summer, I worked on prefix cache optimization for PD-disaggregated agentic serving systems. Grateful to be mentored by [Hokchhay Tann](https://www.linkedin.com/in/htann/), [Mohammad Seyedzadeh](https://www.linkedin.com/in/sms44/), and [Bindu Damecharla](https://www.linkedin.com/in/bindudamecharla/).
+* **07/08/2026**: Our paper [*DuetServe*](https://arxiv.org/abs/2511.04791) was recognized by Nebius Science as one of the ICML 2026 "[Papers That Matter](https://nebius.science/stories/icml-papers-that-matter)" and awarded $5,000 in compute credits.
 * **07/08/2026**: Our paper [*ASPIRE: Asynchronous Batched Self-Speculative Decoding for Long-Context LLM Inference*]() has been accepted to [CoLM](https://colmweb.org/) 2026.
 * **06/17/2026**: Our paper [*MARché: Fast Masked Autoregressive Image Generation with Cache-Aware Attention*](https://arxiv.org/abs/2506.12035) has been accepted to [ECCV](https://eccv.ecva.net/) 2026.
 * **04/30/2026**: Our paper [*DuetServe: Harmonizing Prefill and Decode for LLM Serving via Adaptive GPU Multiplexing*](https://arxiv.org/abs/2511.04791) has been accepted to [ICML](https://icml.cc/) 2026.
