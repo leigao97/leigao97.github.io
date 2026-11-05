@@ -41,7 +41,7 @@ My research interests are centered around **LLM inference and training systems**
 * EE109: Introduction to Embedded Systems (Fall 2024)
 
 # Professional Service
-* **Reviewer**: ICML (2026), ARR (Mar 2026, Feb/May/Oct 2025, Dec 2024), ICLR SCOPE Workshop (2025), NeurIPS ENLSP Workshop (2024), IEEE Computer Architecture Letters (2023)
+* **Reviewer**: ICML (2026), ARR (2026, 2025), ICLR SCOPE Workshop (2025), NeurIPS ENLSP Workshop (2024), IEEE Computer Architecture Letters (2023)
 
 # Volunteer Service
 * **Mentorship**: USC [CURVE](https://viterbiundergrad.usc.edu/research/curve/) (Fall 2024, Spring 2025), USC [VGSA](https://engage.usc.edu/viterbigradmentorship/home/) (Fall 2025)
